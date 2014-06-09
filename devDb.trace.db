@@ -1,0 +1,6 @@
+06-09 15:11:06 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "STORIES" not found; SQL statement:
+alter table stories drop constraint FK8FB0605323EEBF25 [42102-173]
+06-09 19:01:52 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "STORIES" not found; SQL statement:
+alter table stories drop constraint FK8FB0605323EEBF25 [42102-173]
